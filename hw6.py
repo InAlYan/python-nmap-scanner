@@ -67,7 +67,7 @@ print(f"Прошло {elapsed_time:.2f} секунд.")
 # 	49163 : open
 # 192.168.88.248 : up : {}
 # 	порты:
-# 192.168.88.252 : up : {'XX:XX:XX:XX:XX:5XX': 'Giga-byte Technology'}
+# 192.168.88.252 : up : {'XX:XX:XX:XX:XX:XX': 'Giga-byte Technology'}
 # 	порты:
 # 	135 : open
 # 	139 : open
